@@ -27,7 +27,7 @@ Results(Simulated/ Test Campaign):
 
 
 ##  Live Demo
--	**Landing Page: **
+-	**Landing Page: ** https://wyllcodes.github.io/Telemedicine-Google-Ads-Case-Study/
 -	**Ad Type:** Google Search (Healthcare / Telemedicine)
 
 ##  Project Objective
@@ -42,17 +42,19 @@ Results(Simulated/ Test Campaign):
 -	No Medical guarantees
 -	HIPAA / PHIPA compliant messaging
 -	CTA focused on *booking a consultaion*
+  
 ### Screenshots:
-! [landing page] (     )
 ! [mobile view] (     )
 
 ## Google Search Ads Setup (Step-by-Step)
+
 ### 1 Add Business Information
-! [Add Business Information] (  )
+![Add Business Information](create-campaign-1.png)
 **Examples:**
 -	Describe what makes your business Unique
 -	What specific services or products are you advertising in this campaign?
 -	Select Pages to get relevant image Ad suggestions
+  
 ### 2 Choose Your Goal for this Campaign
 ! [Choose Campaign Goal for this project] (  )
 **Campaign Goal Used**
@@ -133,6 +135,7 @@ Ideal For:
 -	Health SaaS founders
 -	Medical appointment platforms
 -	Wellness Startups
+  
 Not Ideal for:
 -	Miracle cure products
 -	Unverified supplements
@@ -140,12 +143,15 @@ Not Ideal for:
 
 ## Contact
 Want this implemented for your Health startup or SaaS?
+
 I help Health & Telemedicine  companies:
 -	Launch Google-approved Ad Campaigns
 -	Avoid account suspension 
 -	Convert high-intent healthcare traffic
+  
 Let’s talk
 **Email:** elegodswyll@gmail.com
+
 **Linkedln:**  
 
 
