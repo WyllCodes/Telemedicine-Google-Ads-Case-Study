@@ -49,7 +49,7 @@ Results(Simulated/ Test Campaign):
 ## Google Search Ads Setup (Step-by-Step)
 
 ### 1 Add Business Information
-![Add Business Information](create-campaign-1.png)
+![Add Business Information](Google-Ads/create-campaign-1.png)
 **Examples:**
 -	Describe what makes your business Unique
 -	What specific services or products are you advertising in this campaign?
