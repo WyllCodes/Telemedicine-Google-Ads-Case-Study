@@ -153,7 +153,7 @@ I help Health & Telemedicine  companies:
 Let’s talk
 **Email:** elegodswyll@gmail.com
 
-**Linkedln:**  
+**Linkedln:** https://www.linkedin.com/in/ele-godswill-b84904376?
 
 
 
